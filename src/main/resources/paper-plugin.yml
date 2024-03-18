@@ -1,0 +1,4 @@
+name: Skyblock
+version: '${version}'
+main: me.kittylover11.skyblock.Main
+api-version: '1.20'
